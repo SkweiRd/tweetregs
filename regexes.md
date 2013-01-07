@@ -1,22 +1,18 @@
-Irritating conferences/events
+People repeating links over + over
+-------------
+- (?i)(in.*case|if).*you.*missed.*it
+
+Conferences/events
 -----------------------------------
 - (\s|#)(ces|Ces|CES)
 - (\s|#)(sxsw|Sxsw|SXSW)
 - (\s|#)(crunchies|Crunchies|CRUNCHIES)
 
-People re-tweeting things you didn't read last time they tweeted it
--------------
-- (?i)(in.*case|if).*you.*missed.*it
-
-Plaintive requests for follows
--------------
-- (?i)please.*(\bwatch\b|\bfollow\b)|(\bwatch\b|\bfollow\b).*(me|please|back)
-
 Tweets mentioning four or more other people
 -------------
 - @[^@]+@[^@]+@[^@]+@
 
-Giant hashtags
+Giant hashtag punchlines
 -------------
 - #[^ ]{15}
 
@@ -24,9 +20,9 @@ Four or more hashtags in single tweet
 -------------
 - #[^#]+#[^#]+#
 
-Tweets to you containing only a link
+Tweets to you containing only a link (almost always spammer doing "wait and reply" bomb)
 --------------
-- ^@pkedrosky *https?://[^ ]+$
+- ^@bluechoochoo *https?://[^ ]+$
 
 Tweets containing over-repeated characters
 -------------
