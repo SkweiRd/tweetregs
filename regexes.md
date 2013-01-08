@@ -2,8 +2,9 @@ People repeating links over + over
 -------------
 - (?i)(in.*case|if).*you.*missed.*it
 
-Conferences/events
+Conferences/events/concepts that aren't as cute as you'd think
 -----------------------------------
+- (\s|#)(fail|Fail|FAIL)
 - (\s|#)(ces|Ces|CES)
 - (\s|#)(sxsw|Sxsw|SXSW)
 - (\s|#)(crunchies|Crunchies|CRUNCHIES)
