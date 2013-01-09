@@ -2,12 +2,17 @@ People repeating links over + over
 -------------
 - (?i)(in.*case|if).*you.*missed.*it
 
-Conferences/events/concepts that aren't as cute as you'd think
+concepts
 -----------------------------------
 - (\s|#)(fail|Fail|FAIL)
-- (\s|#)(ces|Ces|CES)
-- (\s|#)(sxsw|Sxsw|SXSW)
-- (\s|#)(crunchies|Crunchies|CRUNCHIES)
+- (\s|#)(firstworldproblems|Firstworldproblems|FIRSTWORLDPROBLEMS)
+- (\s|#)(sorrynotsorry|Sorrynotsorry|SORRYNOTSORRY)
+
+shopping, shipping, consumption
+-----------------------------------
+- (\s|#)(ups|Ups|UPS)
+- (\s|#)(fedex|fedex|FEDEX)
+- (\s|#)(foursquare|Foursquare|FOURSQUARE)
 
 Tweets mentioning four or more other people
 -------------
