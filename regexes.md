@@ -2,6 +2,12 @@ People repeating links over + over
 -------------
 - (?i)(in.*case|if).*you.*missed.*it
 
+
+wealth fetish
+-----------------------------------
+- (\s|#)(billionaire|Billionaire|billionaires|Billionaires)
+- (\s|#)(billions|Billions|billions|Billions)
+
 concepts
 -----------------------------------
 - (\s|#)(fail|Fail|FAIL)
