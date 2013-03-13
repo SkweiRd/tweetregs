@@ -1,4 +1,4 @@
-People repeating links over + over
+repeating links over + over
 -------------
 - (?i)(in.*case|if).*you.*missed.*it
 
