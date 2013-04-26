@@ -6,6 +6,7 @@ repeating links over + over
 wealth fetish
 -----------------------------------
 - (\s|#)(billionaire|Billionaire|billionaires|Billionaires)
+- (\s|#)(billions|Billions)
 - (\s|#)(richest|Richest|RICHEST)
 
 concepts
