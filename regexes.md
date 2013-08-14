@@ -44,3 +44,20 @@ Tweets containing over-repeated characters
 Retweet cascades
 -------------
 - RT[^RT]+RT
+
+Filtered domains
+-------------
+
+- techcrunch
+- mashable
+- paper.li
+- foursquare
+- huffingtonpost
+- businessinsider
+- forbes
+
+Filtered clients
+---------------
+- ifttt
+- buffer
+
